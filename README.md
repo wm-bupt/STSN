@@ -1,4 +1,4 @@
-# STSN-for-oracle-recognition
+# STSN for oracle character recognition
 
 ![Image](https://raw.githubusercontent.com/wm-bupt/images/main/oracle241.png)
 
