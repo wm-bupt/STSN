@@ -1,6 +1,6 @@
 # STSN-for-oracle-recognition
 
-![Architecture](https://github.com/wm-bupt/images/raw/master/oracle241.png)
+![Image](https://raw.githubusercontent.com/wm-bupt/images/main/oracle241.png)
 
 Oracle bone script is the earliest-known Chinese writing system of the Shang dynasty and is precious to archeology and philology. However, real-world scanned oracle data are rare and few experts are available for annotation which make the automatic recognition of scanned oracle characters become a challenging task. Therefore, we aim to explore unsupervised domain adaptation to transfer knowledge from handprinted oracle data, which are easy to acquire, to scanned domain. A publicly available oracle character database Oracle-241 is presented, and a structure-texture separation network (STSN) is proposed.
 
