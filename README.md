@@ -61,10 +61,13 @@ python STSN.py --gpu 0 --gen_img_dir generate_img/STSN --num_steps 250000 --batc
 ## Citation
 ```bash
 @article {wang2022oracle,
-    title={Unsupervised Structure-Texture Separation Network for Oracle Character Recognition},
-    author={Wang, Mei and Deng, Weihong },
-    journal={IEEE Transactions on Image Processing},
+    author={Wang, Mei and Deng, Weihong and Liu, Cheng-Lin},
+    journal={IEEE Transactions on Image Processing}, 
+    title={Unsupervised Structure-Texture Separation Network for Oracle Character Recognition}, 
     year={2022},
-    publisher={IEEE}
+    volume={31},
+    number={},
+    pages={3137-3150},
+    doi={10.1109/TIP.2022.3165989}
 }
 ```
