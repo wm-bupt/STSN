@@ -16,7 +16,7 @@ Oracle-241 is a large oracle character dataset for transferring recognition know
 
 **This database is publicly available.** It is free for professors and researcher scientists affiliated to a University. 
 
-Send an e-mail to Mei Wang (wangmei1@bupt.edu.cn) before downloading the database. You will need a password to access the files of this database. Your Email MUST be set from a valid University account and MUST include the following text:
+**Send an e-mail to Mei Wang (wangmei1@bupt.edu.cn) before downloading the database.** You will need a password to access the files of this database. Your Email MUST be set from a valid University account and MUST include the following text:
 
 ```bash
 Subject: Application to download the Oracle-241 Database          
